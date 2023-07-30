@@ -1,0 +1,2 @@
+# OpenCore-9.3-ASRock-B460M-Pro4-i5-10400-RX-6600
+2023/07/30，基于OpenCore 9.3，华擎 B460M Pro4 ，i5-10400，GIGABYTE RX 6600 完美黑苹果
